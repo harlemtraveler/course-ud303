@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 python-3.6.3
+||||||| merged common ancestors
+=======
+python-3.5.2
+python-2.7.1
+>>>>>>> e42ac3240cf8a1e2d70f7c7593321db60dd8f045
